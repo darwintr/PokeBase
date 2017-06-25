@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PokeBase</string>
+    <string name="pokemon_name_placeholder">Pokemon name</string>
+    <string name="pokedex_number_placeholder">123</string>
 </resources>
