@@ -1,0 +1,44 @@
+{
+    "id": 5,
+    "name": "charmeleon",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 58,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 64,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 58,
+            "ev": 0
+        }
+    ],
+    "weight": 190,
+    "height": 11,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

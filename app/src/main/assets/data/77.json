@@ -1,0 +1,44 @@
+{
+    "id": 77,
+    "name": "ponyta",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 300,
+    "height": 10,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 134,
+    "name": "vaporeon",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 130,
+            "ev": 2
+        }
+    ],
+    "weight": 290,
+    "height": 10,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

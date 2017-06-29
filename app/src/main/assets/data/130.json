@@ -1,0 +1,48 @@
+{
+    "id": 130,
+    "name": "gyarados",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 81,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 79,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 125,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 95,
+            "ev": 0
+        }
+    ],
+    "weight": 2350,
+    "height": 65,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

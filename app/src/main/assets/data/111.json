@@ -1,0 +1,48 @@
+{
+    "id": 111,
+    "name": "rhyhorn",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 1150,
+    "height": 10,
+    "types": [
+        {
+            "name": "rock",
+            "slot": 2
+        },
+        {
+            "name": "ground",
+            "slot": 1
+        }
+    ]
+}

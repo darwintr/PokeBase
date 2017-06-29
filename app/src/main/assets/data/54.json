@@ -1,0 +1,44 @@
+{
+    "id": 54,
+    "name": "psyduck",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 52,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 196,
+    "height": 8,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

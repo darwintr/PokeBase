@@ -1,0 +1,44 @@
+{
+    "id": 55,
+    "name": "golduck",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 95,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 78,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 82,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 766,
+    "height": 17,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

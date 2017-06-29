@@ -1,0 +1,48 @@
+{
+    "id": 144,
+    "name": "articuno",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 125,
+            "ev": 3
+        },
+        {
+            "name": "special-attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 0
+        }
+    ],
+    "weight": 554,
+    "height": 17,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "ice",
+            "slot": 1
+        }
+    ]
+}

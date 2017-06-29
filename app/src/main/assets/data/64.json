@@ -1,0 +1,44 @@
+{
+    "id": 64,
+    "name": "kadabra",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 105,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 120,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 565,
+    "height": 13,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

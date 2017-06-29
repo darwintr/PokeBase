@@ -1,0 +1,48 @@
+{
+    "id": 84,
+    "name": "doduo",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 85,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 35,
+            "ev": 0
+        }
+    ],
+    "weight": 392,
+    "height": 14,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 93,
+    "name": "haunter",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 115,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 45,
+            "ev": 0
+        }
+    ],
+    "weight": 1,
+    "height": 16,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "ghost",
+            "slot": 1
+        }
+    ]
+}

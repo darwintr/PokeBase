@@ -1,0 +1,44 @@
+{
+    "id": 151,
+    "name": "mew",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 100,
+            "ev": 3
+        }
+    ],
+    "weight": 40,
+    "height": 4,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

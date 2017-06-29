@@ -1,0 +1,48 @@
+{
+    "id": 46,
+    "name": "paras",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 70,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 35,
+            "ev": 0
+        }
+    ],
+    "weight": 54,
+    "height": 3,
+    "types": [
+        {
+            "name": "grass",
+            "slot": 2
+        },
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

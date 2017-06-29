@@ -1,0 +1,44 @@
+{
+    "id": 11,
+    "name": "metapod",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 2
+        },
+        {
+            "name": "attack",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 99,
+    "height": 7,
+    "types": [
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

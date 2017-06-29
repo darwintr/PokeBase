@@ -1,0 +1,44 @@
+{
+    "id": 53,
+    "name": "persian",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 115,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 320,
+    "height": 10,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

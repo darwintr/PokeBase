@@ -1,0 +1,48 @@
+{
+    "id": 75,
+    "name": "graveler",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 115,
+            "ev": 2
+        },
+        {
+            "name": "attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 55,
+            "ev": 0
+        }
+    ],
+    "weight": 1050,
+    "height": 10,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

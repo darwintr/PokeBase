@@ -1,0 +1,44 @@
+{
+    "id": 119,
+    "name": "seaking",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 68,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 92,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 390,
+    "height": 13,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

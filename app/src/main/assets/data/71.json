@@ -1,0 +1,48 @@
+{
+    "id": 71,
+    "name": "victreebel",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 105,
+            "ev": 3
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 155,
+    "height": 17,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

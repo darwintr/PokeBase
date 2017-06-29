@@ -1,0 +1,48 @@
+{
+    "id": 15,
+    "name": "beedrill",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 90,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 295,
+    "height": 10,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

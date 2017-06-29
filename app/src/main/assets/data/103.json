@@ -1,0 +1,48 @@
+{
+    "id": 103,
+    "name": "exeggutor",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 125,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 95,
+            "ev": 0
+        }
+    ],
+    "weight": 1200,
+    "height": 20,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

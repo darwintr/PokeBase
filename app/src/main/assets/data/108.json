@@ -1,0 +1,44 @@
+{
+    "id": 108,
+    "name": "lickitung",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 2
+        }
+    ],
+    "weight": 655,
+    "height": 12,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

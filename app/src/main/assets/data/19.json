@@ -1,0 +1,44 @@
+{
+    "id": 19,
+    "name": "rattata",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 72,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 56,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 30,
+            "ev": 0
+        }
+    ],
+    "weight": 35,
+    "height": 3,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

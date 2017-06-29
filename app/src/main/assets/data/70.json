@@ -1,0 +1,48 @@
+{
+    "id": 70,
+    "name": "weepinbell",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 90,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 64,
+    "height": 10,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

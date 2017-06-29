@@ -1,0 +1,48 @@
+{
+    "id": 131,
+    "name": "lapras",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 130,
+            "ev": 2
+        }
+    ],
+    "weight": 2200,
+    "height": 25,
+    "types": [
+        {
+            "name": "ice",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

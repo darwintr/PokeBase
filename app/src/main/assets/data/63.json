@@ -1,0 +1,44 @@
+{
+    "id": 63,
+    "name": "abra",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 105,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 15,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 25,
+            "ev": 0
+        }
+    ],
+    "weight": 195,
+    "height": 9,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

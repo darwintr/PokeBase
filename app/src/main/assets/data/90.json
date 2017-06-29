@@ -1,0 +1,44 @@
+{
+    "id": 90,
+    "name": "shellder",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 30,
+            "ev": 0
+        }
+    ],
+    "weight": 40,
+    "height": 3,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

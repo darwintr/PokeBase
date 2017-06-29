@@ -1,0 +1,44 @@
+{
+    "id": 27,
+    "name": "sandshrew",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 85,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 120,
+    "height": 6,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 1
+        }
+    ]
+}

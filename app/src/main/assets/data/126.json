@@ -1,0 +1,44 @@
+{
+    "id": 126,
+    "name": "magmar",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 93,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 57,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 445,
+    "height": 13,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

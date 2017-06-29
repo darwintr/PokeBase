@@ -1,0 +1,44 @@
+{
+    "id": 129,
+    "name": "magikarp",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 15,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 10,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 20,
+            "ev": 0
+        }
+    ],
+    "weight": 100,
+    "height": 9,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

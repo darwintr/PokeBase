@@ -1,0 +1,48 @@
+{
+    "id": 141,
+    "name": "kabutops",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 105,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 115,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 405,
+    "height": 13,
+    "types": [
+        {
+            "name": "water",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

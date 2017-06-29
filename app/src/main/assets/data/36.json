@@ -1,0 +1,44 @@
+{
+    "id": 36,
+    "name": "clefable",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 73,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 95,
+            "ev": 3
+        }
+    ],
+    "weight": 400,
+    "height": 13,
+    "types": [
+        {
+            "name": "fairy",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 137,
+    "name": "porygon",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 85,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 365,
+    "height": 8,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

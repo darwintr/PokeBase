@@ -1,0 +1,48 @@
+{
+    "id": 149,
+    "name": "dragonite",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 134,
+            "ev": 3
+        },
+        {
+            "name": "hp",
+            "base": 91,
+            "ev": 0
+        }
+    ],
+    "weight": 2100,
+    "height": 22,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "dragon",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 51,
+    "name": "dugtrio",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 120,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 35,
+            "ev": 0
+        }
+    ],
+    "weight": 333,
+    "height": 7,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 1
+        }
+    ]
+}

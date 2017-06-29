@@ -1,0 +1,44 @@
+{
+    "id": 7,
+    "name": "squirtle",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 43,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 64,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 44,
+            "ev": 0
+        }
+    ],
+    "weight": 90,
+    "height": 5,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

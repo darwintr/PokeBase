@@ -1,0 +1,44 @@
+{
+    "id": 66,
+    "name": "machop",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 70,
+            "ev": 0
+        }
+    ],
+    "weight": 195,
+    "height": 8,
+    "types": [
+        {
+            "name": "fighting",
+            "slot": 1
+        }
+    ]
+}

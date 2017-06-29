@@ -1,0 +1,48 @@
+{
+    "id": 72,
+    "name": "tentacool",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 455,
+    "height": 9,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

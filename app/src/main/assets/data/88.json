@@ -1,0 +1,44 @@
+{
+    "id": 88,
+    "name": "grimer",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 1
+        }
+    ],
+    "weight": 300,
+    "height": 9,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

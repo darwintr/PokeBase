@@ -1,0 +1,48 @@
+{
+    "id": 73,
+    "name": "tentacruel",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 120,
+            "ev": 2
+        },
+        {
+            "name": "special-attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 550,
+    "height": 16,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

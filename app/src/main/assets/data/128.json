@@ -1,0 +1,44 @@
+{
+    "id": 128,
+    "name": "tauros",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 110,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 75,
+            "ev": 0
+        }
+    ],
+    "weight": 884,
+    "height": 14,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

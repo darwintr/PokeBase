@@ -1,0 +1,48 @@
+{
+    "id": 138,
+    "name": "omanyte",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 35,
+            "ev": 0
+        }
+    ],
+    "weight": 75,
+    "height": 4,
+    "types": [
+        {
+            "name": "water",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

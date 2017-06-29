@@ -1,0 +1,44 @@
+{
+    "id": 10,
+    "name": "caterpie",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 45,
+            "ev": 1
+        }
+    ],
+    "weight": 29,
+    "height": 3,
+    "types": [
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

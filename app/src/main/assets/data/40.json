@@ -1,0 +1,48 @@
+{
+    "id": 40,
+    "name": "wigglytuff",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 140,
+            "ev": 3
+        }
+    ],
+    "weight": 120,
+    "height": 10,
+    "types": [
+        {
+            "name": "fairy",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

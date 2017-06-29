@@ -1,0 +1,48 @@
+{
+    "id": 83,
+    "name": "farfetchd",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 62,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 58,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 52,
+            "ev": 0
+        }
+    ],
+    "weight": 150,
+    "height": 8,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

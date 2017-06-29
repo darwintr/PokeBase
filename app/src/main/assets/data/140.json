@@ -1,0 +1,48 @@
+{
+    "id": 140,
+    "name": "kabuto",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 90,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 30,
+            "ev": 0
+        }
+    ],
+    "weight": 115,
+    "height": 5,
+    "types": [
+        {
+            "name": "water",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

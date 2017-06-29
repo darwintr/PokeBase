@@ -1,0 +1,44 @@
+{
+    "id": 24,
+    "name": "arbok",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 79,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 69,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 85,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 650,
+    "height": 35,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

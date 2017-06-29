@@ -1,0 +1,48 @@
+{
+    "id": 121,
+    "name": "starmie",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 115,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 800,
+    "height": 11,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

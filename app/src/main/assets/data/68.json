@@ -1,0 +1,44 @@
+{
+    "id": 68,
+    "name": "machamp",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 130,
+            "ev": 3
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 0
+        }
+    ],
+    "weight": 1300,
+    "height": 16,
+    "types": [
+        {
+            "name": "fighting",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 122,
+    "name": "mr-mime",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 120,
+            "ev": 2
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 545,
+    "height": 13,
+    "types": [
+        {
+            "name": "fairy",
+            "slot": 2
+        },
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

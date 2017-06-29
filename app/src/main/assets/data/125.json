@@ -1,0 +1,44 @@
+{
+    "id": 125,
+    "name": "electabuzz",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 105,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 57,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 83,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 300,
+    "height": 11,
+    "types": [
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}

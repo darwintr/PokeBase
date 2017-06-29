@@ -1,0 +1,48 @@
+{
+    "id": 3,
+    "name": "venusaur",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 83,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 82,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 1000,
+    "height": 20,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 34,
+    "name": "nidoking",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 77,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 102,
+            "ev": 3
+        },
+        {
+            "name": "hp",
+            "base": 81,
+            "ev": 0
+        }
+    ],
+    "weight": 620,
+    "height": 14,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 2
+        },
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

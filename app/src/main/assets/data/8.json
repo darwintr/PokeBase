@@ -1,0 +1,44 @@
+{
+    "id": 8,
+    "name": "wartortle",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 58,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 63,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 59,
+            "ev": 0
+        }
+    ],
+    "weight": 225,
+    "height": 10,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

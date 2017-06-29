@@ -1,0 +1,44 @@
+{
+    "id": 143,
+    "name": "snorlax",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 160,
+            "ev": 2
+        }
+    ],
+    "weight": 4600,
+    "height": 21,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

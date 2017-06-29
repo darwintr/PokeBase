@@ -1,0 +1,48 @@
+{
+    "id": 41,
+    "name": "zubat",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 75,
+    "height": 8,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

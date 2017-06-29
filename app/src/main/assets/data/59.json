@@ -1,0 +1,44 @@
+{
+    "id": 59,
+    "name": "arcanine",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 110,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 0
+        }
+    ],
+    "weight": 1550,
+    "height": 19,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

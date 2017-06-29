@@ -1,0 +1,48 @@
+{
+    "id": 145,
+    "name": "zapdos",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 125,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 0
+        }
+    ],
+    "weight": 526,
+    "height": 16,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 65,
+    "name": "alakazam",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 120,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 135,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 55,
+            "ev": 0
+        }
+    ],
+    "weight": 480,
+    "height": 15,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

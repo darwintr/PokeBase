@@ -1,0 +1,48 @@
+{
+    "id": 112,
+    "name": "rhydon",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 120,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 130,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 105,
+            "ev": 0
+        }
+    ],
+    "weight": 1200,
+    "height": 19,
+    "types": [
+        {
+            "name": "rock",
+            "slot": 2
+        },
+        {
+            "name": "ground",
+            "slot": 1
+        }
+    ]
+}

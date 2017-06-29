@@ -1,0 +1,44 @@
+{
+    "id": 52,
+    "name": "meowth",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 42,
+    "height": 4,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

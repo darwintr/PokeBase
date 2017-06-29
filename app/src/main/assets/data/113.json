@@ -1,0 +1,44 @@
+{
+    "id": 113,
+    "name": "chansey",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 105,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 5,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 5,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 250,
+            "ev": 2
+        }
+    ],
+    "weight": 346,
+    "height": 11,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

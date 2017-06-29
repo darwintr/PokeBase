@@ -1,0 +1,44 @@
+{
+    "id": 107,
+    "name": "hitmonchan",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 76,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 110,
+            "ev": 2
+        },
+        {
+            "name": "special-attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 79,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 105,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 502,
+    "height": 14,
+    "types": [
+        {
+            "name": "fighting",
+            "slot": 1
+        }
+    ]
+}

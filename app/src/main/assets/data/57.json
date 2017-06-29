@@ -1,0 +1,44 @@
+{
+    "id": 57,
+    "name": "primeape",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 105,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 320,
+    "height": 10,
+    "types": [
+        {
+            "name": "fighting",
+            "slot": 1
+        }
+    ]
+}

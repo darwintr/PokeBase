@@ -1,0 +1,44 @@
+{
+    "id": 117,
+    "name": "seadra",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 95,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 55,
+            "ev": 0
+        }
+    ],
+    "weight": 250,
+    "height": 12,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

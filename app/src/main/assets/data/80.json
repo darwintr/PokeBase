@@ -1,0 +1,48 @@
+{
+    "id": 80,
+    "name": "slowbro",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 110,
+            "ev": 2
+        },
+        {
+            "name": "attack",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 95,
+            "ev": 0
+        }
+    ],
+    "weight": 785,
+    "height": 16,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

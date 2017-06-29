@@ -1,0 +1,48 @@
+{
+    "id": 74,
+    "name": "geodude",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 20,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 200,
+    "height": 4,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

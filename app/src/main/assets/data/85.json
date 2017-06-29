@@ -1,0 +1,48 @@
+{
+    "id": 85,
+    "name": "dodrio",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 110,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 852,
+    "height": 18,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

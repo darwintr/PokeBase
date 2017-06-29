@@ -1,0 +1,44 @@
+{
+    "id": 133,
+    "name": "eevee",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 55,
+            "ev": 0
+        }
+    ],
+    "weight": 65,
+    "height": 3,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

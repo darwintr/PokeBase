@@ -1,0 +1,44 @@
+{
+    "id": 30,
+    "name": "nidorina",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 56,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 67,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 62,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 70,
+            "ev": 2
+        }
+    ],
+    "weight": 200,
+    "height": 8,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 89,
+    "name": "muk",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 105,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 105,
+            "ev": 1
+        }
+    ],
+    "weight": 300,
+    "height": 12,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

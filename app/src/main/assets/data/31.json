@@ -1,0 +1,48 @@
+{
+    "id": 31,
+    "name": "nidoqueen",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 76,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 87,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 92,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 3
+        }
+    ],
+    "weight": 600,
+    "height": 13,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 2
+        },
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

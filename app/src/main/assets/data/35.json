@@ -1,0 +1,44 @@
+{
+    "id": 35,
+    "name": "clefairy",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 70,
+            "ev": 2
+        }
+    ],
+    "weight": 75,
+    "height": 6,
+    "types": [
+        {
+            "name": "fairy",
+            "slot": 1
+        }
+    ]
+}

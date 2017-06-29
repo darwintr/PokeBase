@@ -1,0 +1,48 @@
+{
+    "id": 47,
+    "name": "parasect",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 95,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 295,
+    "height": 10,
+    "types": [
+        {
+            "name": "grass",
+            "slot": 2
+        },
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

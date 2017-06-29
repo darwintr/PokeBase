@@ -1,0 +1,48 @@
+{
+    "id": 44,
+    "name": "gloom",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 85,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 86,
+    "height": 8,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

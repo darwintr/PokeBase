@@ -1,0 +1,44 @@
+{
+    "id": 132,
+    "name": "ditto",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 48,
+            "ev": 1
+        }
+    ],
+    "weight": 40,
+    "height": 3,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 81,
+    "name": "magnemite",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 95,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 25,
+            "ev": 0
+        }
+    ],
+    "weight": 60,
+    "height": 3,
+    "types": [
+        {
+            "name": "steel",
+            "slot": 2
+        },
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}

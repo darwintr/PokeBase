@@ -1,0 +1,44 @@
+{
+    "id": 104,
+    "name": "cubone",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 65,
+    "height": 4,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 1
+        }
+    ]
+}

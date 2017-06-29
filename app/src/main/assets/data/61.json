@@ -1,0 +1,44 @@
+{
+    "id": 61,
+    "name": "poliwhirl",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 200,
+    "height": 10,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

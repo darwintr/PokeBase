@@ -1,0 +1,44 @@
+{
+    "id": 38,
+    "name": "ninetales",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 81,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 76,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 73,
+            "ev": 0
+        }
+    ],
+    "weight": 199,
+    "height": 11,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

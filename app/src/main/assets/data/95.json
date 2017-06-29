@@ -1,0 +1,48 @@
+{
+    "id": 95,
+    "name": "onix",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 160,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 35,
+            "ev": 0
+        }
+    ],
+    "weight": 2100,
+    "height": 88,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

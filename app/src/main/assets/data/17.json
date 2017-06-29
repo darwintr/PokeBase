@@ -1,0 +1,48 @@
+{
+    "id": 17,
+    "name": "pidgeotto",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 71,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 63,
+            "ev": 0
+        }
+    ],
+    "weight": 300,
+    "height": 11,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

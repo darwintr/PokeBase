@@ -1,0 +1,44 @@
+{
+    "id": 28,
+    "name": "sandslash",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 110,
+            "ev": 2
+        },
+        {
+            "name": "attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 75,
+            "ev": 0
+        }
+    ],
+    "weight": 295,
+    "height": 10,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 1
+        }
+    ]
+}

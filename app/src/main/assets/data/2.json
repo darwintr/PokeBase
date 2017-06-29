@@ -1,0 +1,48 @@
+{
+    "id": 2,
+    "name": "ivysaur",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 63,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 62,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 130,
+    "height": 10,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 142,
+    "name": "aerodactyl",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 130,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 105,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 590,
+    "height": 18,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

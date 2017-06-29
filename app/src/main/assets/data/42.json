@@ -1,0 +1,48 @@
+{
+    "id": 42,
+    "name": "golbat",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 75,
+            "ev": 0
+        }
+    ],
+    "weight": 550,
+    "height": 16,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

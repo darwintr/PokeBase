@@ -1,0 +1,48 @@
+{
+    "id": 76,
+    "name": "golem",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 130,
+            "ev": 3
+        },
+        {
+            "name": "attack",
+            "base": 120,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 80,
+            "ev": 0
+        }
+    ],
+    "weight": 3000,
+    "height": 14,
+    "types": [
+        {
+            "name": "ground",
+            "slot": 2
+        },
+        {
+            "name": "rock",
+            "slot": 1
+        }
+    ]
+}

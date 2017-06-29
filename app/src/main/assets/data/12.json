@@ -1,0 +1,48 @@
+{
+    "id": 12,
+    "name": "butterfree",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 90,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 320,
+    "height": 11,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

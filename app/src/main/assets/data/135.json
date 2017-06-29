@@ -1,0 +1,44 @@
+{
+    "id": 135,
+    "name": "jolteon",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 130,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 245,
+    "height": 8,
+    "types": [
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}

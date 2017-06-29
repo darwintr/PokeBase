@@ -1,0 +1,44 @@
+{
+    "id": 120,
+    "name": "staryu",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 85,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 30,
+            "ev": 0
+        }
+    ],
+    "weight": 345,
+    "height": 8,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

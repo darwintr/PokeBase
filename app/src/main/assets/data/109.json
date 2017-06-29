@@ -1,0 +1,44 @@
+{
+    "id": 109,
+    "name": "koffing",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 40,
+            "ev": 0
+        }
+    ],
+    "weight": 10,
+    "height": 6,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

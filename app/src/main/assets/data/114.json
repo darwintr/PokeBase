@@ -1,0 +1,44 @@
+{
+    "id": 114,
+    "name": "tangela",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 115,
+            "ev": 1
+        },
+        {
+            "name": "attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 350,
+    "height": 10,
+    "types": [
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

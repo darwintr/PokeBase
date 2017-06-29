@@ -1,0 +1,48 @@
+{
+    "id": 79,
+    "name": "slowpoke",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 15,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 1
+        }
+    ],
+    "weight": 360,
+    "height": 12,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

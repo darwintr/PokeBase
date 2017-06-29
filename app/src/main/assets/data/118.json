@@ -1,0 +1,44 @@
+{
+    "id": 118,
+    "name": "goldeen",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 63,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 67,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 45,
+            "ev": 0
+        }
+    ],
+    "weight": 150,
+    "height": 6,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

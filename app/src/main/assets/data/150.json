@@ -1,0 +1,44 @@
+{
+    "id": 150,
+    "name": "mewtwo",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 130,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 154,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 106,
+            "ev": 0
+        }
+    ],
+    "weight": 1220,
+    "height": 20,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

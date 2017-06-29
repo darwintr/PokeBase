@@ -1,0 +1,44 @@
+{
+    "id": 147,
+    "name": "dratini",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 64,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 41,
+            "ev": 0
+        }
+    ],
+    "weight": 33,
+    "height": 18,
+    "types": [
+        {
+            "name": "dragon",
+            "slot": 1
+        }
+    ]
+}

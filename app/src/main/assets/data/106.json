@@ -1,0 +1,44 @@
+{
+    "id": 106,
+    "name": "hitmonlee",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 87,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 53,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 120,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 498,
+    "height": 15,
+    "types": [
+        {
+            "name": "fighting",
+            "slot": 1
+        }
+    ]
+}

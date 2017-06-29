@@ -1,0 +1,44 @@
+{
+    "id": 148,
+    "name": "dragonair",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 84,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 61,
+            "ev": 0
+        }
+    ],
+    "weight": 165,
+    "height": 40,
+    "types": [
+        {
+            "name": "dragon",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 6,
+    "name": "charizard",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 109,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 78,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 84,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 78,
+            "ev": 0
+        }
+    ],
+    "weight": 905,
+    "height": 17,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

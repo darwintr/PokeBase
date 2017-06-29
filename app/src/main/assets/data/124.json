@@ -1,0 +1,48 @@
+{
+    "id": 124,
+    "name": "jynx",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 115,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 406,
+    "height": 14,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 2
+        },
+        {
+            "name": "ice",
+            "slot": 1
+        }
+    ]
+}

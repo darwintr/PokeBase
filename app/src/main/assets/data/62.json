@@ -1,0 +1,48 @@
+{
+    "id": 62,
+    "name": "poliwrath",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 3
+        },
+        {
+            "name": "attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 0
+        }
+    ],
+    "weight": 540,
+    "height": 13,
+    "types": [
+        {
+            "name": "fighting",
+            "slot": 2
+        },
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

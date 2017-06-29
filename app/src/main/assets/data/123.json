@@ -1,0 +1,48 @@
+{
+    "id": 123,
+    "name": "scyther",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 105,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 110,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 70,
+            "ev": 0
+        }
+    ],
+    "weight": 560,
+    "height": 15,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "bug",
+            "slot": 1
+        }
+    ]
+}

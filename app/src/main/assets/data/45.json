@@ -1,0 +1,48 @@
+{
+    "id": 45,
+    "name": "vileplume",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 110,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 75,
+            "ev": 0
+        }
+    ],
+    "weight": 186,
+    "height": 12,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

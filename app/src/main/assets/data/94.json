@@ -1,0 +1,48 @@
+{
+    "id": 94,
+    "name": "gengar",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 110,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 130,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 405,
+    "height": 15,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "ghost",
+            "slot": 1
+        }
+    ]
+}

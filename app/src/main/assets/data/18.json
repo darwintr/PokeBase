@@ -1,0 +1,48 @@
+{
+    "id": 18,
+    "name": "pidgeot",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 101,
+            "ev": 3
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 83,
+            "ev": 0
+        }
+    ],
+    "weight": 395,
+    "height": 15,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

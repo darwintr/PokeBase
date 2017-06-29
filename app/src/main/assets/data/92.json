@@ -1,0 +1,48 @@
+{
+    "id": 92,
+    "name": "gastly",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 100,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 35,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 30,
+            "ev": 0
+        }
+    ],
+    "weight": 1,
+    "height": 13,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "ghost",
+            "slot": 1
+        }
+    ]
+}

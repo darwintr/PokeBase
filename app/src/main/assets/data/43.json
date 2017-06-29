@@ -1,0 +1,48 @@
+{
+    "id": 43,
+    "name": "oddish",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 30,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 75,
+            "ev": 1
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 45,
+            "ev": 0
+        }
+    ],
+    "weight": 54,
+    "height": 5,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 2
+        },
+        {
+            "name": "grass",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 26,
+    "name": "raichu",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 110,
+            "ev": 3
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 300,
+    "height": 8,
+    "types": [
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 146,
+    "name": "moltres",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 85,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 125,
+            "ev": 3
+        },
+        {
+            "name": "defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 90,
+            "ev": 0
+        }
+    ],
+    "weight": 600,
+    "height": 20,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

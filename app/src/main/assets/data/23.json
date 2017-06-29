@@ -1,0 +1,44 @@
+{
+    "id": 23,
+    "name": "ekans",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 54,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 44,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 60,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 35,
+            "ev": 0
+        }
+    ],
+    "weight": 69,
+    "height": 20,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 32,
+    "name": "nidoran-m",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 57,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 46,
+            "ev": 0
+        }
+    ],
+    "weight": 90,
+    "height": 5,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

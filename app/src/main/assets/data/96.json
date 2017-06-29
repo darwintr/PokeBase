@@ -1,0 +1,44 @@
+{
+    "id": 96,
+    "name": "drowzee",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 42,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 90,
+            "ev": 1
+        },
+        {
+            "name": "special-attack",
+            "base": 43,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 45,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 48,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 324,
+    "height": 10,
+    "types": [
+        {
+            "name": "psychic",
+            "slot": 1
+        }
+    ]
+}

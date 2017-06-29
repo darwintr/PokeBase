@@ -1,0 +1,44 @@
+{
+    "id": 115,
+    "name": "kangaskhan",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 105,
+            "ev": 2
+        }
+    ],
+    "weight": 800,
+    "height": 22,
+    "types": [
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

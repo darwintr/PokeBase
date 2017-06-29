@@ -1,0 +1,44 @@
+{
+    "id": 101,
+    "name": "electrode",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 140,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 60,
+            "ev": 0
+        }
+    ],
+    "weight": 666,
+    "height": 12,
+    "types": [
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}

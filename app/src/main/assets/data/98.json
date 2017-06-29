@@ -1,0 +1,44 @@
+{
+    "id": 98,
+    "name": "krabby",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 25,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 105,
+            "ev": 1
+        },
+        {
+            "name": "hp",
+            "base": 30,
+            "ev": 0
+        }
+    ],
+    "weight": 65,
+    "height": 4,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

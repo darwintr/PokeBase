@@ -1,0 +1,44 @@
+{
+    "id": 78,
+    "name": "rapidash",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 105,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 80,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 100,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 950,
+    "height": 17,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

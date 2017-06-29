@@ -1,0 +1,44 @@
+{
+    "id": 33,
+    "name": "nidorino",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 55,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 57,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 72,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 61,
+            "ev": 0
+        }
+    ],
+    "weight": 195,
+    "height": 9,
+    "types": [
+        {
+            "name": "poison",
+            "slot": 1
+        }
+    ]
+}

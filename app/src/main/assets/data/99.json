@@ -1,0 +1,44 @@
+{
+    "id": 99,
+    "name": "kingler",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 75,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 115,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 130,
+            "ev": 2
+        },
+        {
+            "name": "hp",
+            "base": 55,
+            "ev": 0
+        }
+    ],
+    "weight": 600,
+    "height": 13,
+    "types": [
+        {
+            "name": "water",
+            "slot": 1
+        }
+    ]
+}

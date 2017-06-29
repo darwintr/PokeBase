@@ -1,0 +1,48 @@
+{
+    "id": 22,
+    "name": "fearow",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 100,
+            "ev": 2
+        },
+        {
+            "name": "special-defense",
+            "base": 61,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 61,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 90,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 65,
+            "ev": 0
+        }
+    ],
+    "weight": 380,
+    "height": 12,
+    "types": [
+        {
+            "name": "flying",
+            "slot": 2
+        },
+        {
+            "name": "normal",
+            "slot": 1
+        }
+    ]
+}

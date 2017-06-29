@@ -1,0 +1,44 @@
+{
+    "id": 37,
+    "name": "vulpix",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 65,
+            "ev": 1
+        },
+        {
+            "name": "special-defense",
+            "base": 65,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 50,
+            "ev": 0
+        },
+        {
+            "name": "defense",
+            "base": 40,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 41,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 38,
+            "ev": 0
+        }
+    ],
+    "weight": 99,
+    "height": 6,
+    "types": [
+        {
+            "name": "fire",
+            "slot": 1
+        }
+    ]
+}

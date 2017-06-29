@@ -1,0 +1,48 @@
+{
+    "id": 82,
+    "name": "magneton",
+    "stats": [
+        {
+            "name": "speed",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-defense",
+            "base": 70,
+            "ev": 0
+        },
+        {
+            "name": "special-attack",
+            "base": 120,
+            "ev": 2
+        },
+        {
+            "name": "defense",
+            "base": 95,
+            "ev": 0
+        },
+        {
+            "name": "attack",
+            "base": 60,
+            "ev": 0
+        },
+        {
+            "name": "hp",
+            "base": 50,
+            "ev": 0
+        }
+    ],
+    "weight": 600,
+    "height": 10,
+    "types": [
+        {
+            "name": "steel",
+            "slot": 2
+        },
+        {
+            "name": "electric",
+            "slot": 1
+        }
+    ]
+}
