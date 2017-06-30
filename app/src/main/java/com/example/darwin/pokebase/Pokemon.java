@@ -14,6 +14,32 @@ public class Pokemon {
 	private ArrayList<PokemonType> types;
 	private ArrayList<PokemonStat> stats;
 
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setDexNum(String dexNum) {
+		this.dexNum = dexNum;
+	}
+
+	public void setWeight(float weight) {
+		this.weight = weight;
+	}
+
+	public void setHeight(float height) {
+		this.height = height;
+	}
+
+	public void setTypes(ArrayList<PokemonType> types) {
+		this.types = types;
+	}
+
+	public void setStats(ArrayList<PokemonStat> stats) {
+		this.stats = stats;
+	}
+
+
 	public String getName() {
 		return name;
 	}
@@ -37,6 +63,8 @@ public class Pokemon {
 	public ArrayList<PokemonStat> getStats() {
 		return stats;
 	}
+
+	public String getSpriteFilename() { return dexNum + ".png"; }
 
 	public static String getFormattedStat(String stat) {
 		// by default return stat name with first character capitalized.

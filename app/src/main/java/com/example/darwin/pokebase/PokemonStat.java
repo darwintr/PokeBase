@@ -2,6 +2,8 @@ package com.example.darwin.pokebase;
 
 public class PokemonStat {
 	private int baseXp;
+	private int ev;
+	private String name;
 
 	public int getBaseXp() {
 		return baseXp;
@@ -15,6 +17,5 @@ public class PokemonStat {
 		return name;
 	}
 
-	private int ev;
-	private String name;
+
 }
