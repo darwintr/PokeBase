@@ -2,6 +2,7 @@ package com.example.darwin.pokebase;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.widget.ListView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -10,11 +11,15 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
 	private ArrayList<Pokemon> pokemonList;
 	private HashMap<String, String> idToPokemon;
+	private PokemonAdapter pokemonAdapter;
+	private ListView lvPokemon;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -23,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 		String json = loadJSON("dexnumbers.json");
 		JSONArray jarr = getJSONArray(json, "dexnumbers");
+
 		try {
 			idToPokemon = new HashMap<String, String>();
 			pokemonList = new ArrayList<Pokemon>();
@@ -38,8 +44,19 @@ public class MainActivity extends AppCompatActivity {
 			}
 		} catch (JSONException ex) {
 			ex.printStackTrace();
+			return;
 		}
 
+		Collections.sort(pokemonList, new Comparator<Pokemon>() {
+			@Override
+			public int compare(Pokemon a, Pokemon b) {
+				return Integer.parseInt(a.getDexNum()) < Integer.parseInt(b.getDexNum()) ? -1 : 1;
+			}
+		});
+
+		lvPokemon = (ListView) findViewById(R.id.lvPokemon);
+		pokemonAdapter = new PokemonAdapter(this, pokemonList);
+		lvPokemon.setAdapter(pokemonAdapter);
 	}
 
 	public String loadJSON(String file) {
