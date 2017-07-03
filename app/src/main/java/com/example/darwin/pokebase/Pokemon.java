@@ -11,9 +11,9 @@ public class Pokemon {
 	private String dexNum;
 	private float weight;
 	private float height;
-	private ArrayList<PokemonType> types;
+	private String typeOne;
+	private String typeTwo;
 	private ArrayList<PokemonStat> stats;
-
 
 	public void setName(String name) {
 		this.name = name;
@@ -31,14 +31,17 @@ public class Pokemon {
 		this.height = height;
 	}
 
-	public void setTypes(ArrayList<PokemonType> types) {
-		this.types = types;
-	}
-
 	public void setStats(ArrayList<PokemonStat> stats) {
 		this.stats = stats;
 	}
 
+	public void setTypeOne(String typeOne) {
+		this.typeOne = typeOne;
+	}
+
+	public void setTypeTwo(String typeTwo) {
+		this.typeTwo = typeTwo;
+	}
 
 	public String getName() {
 		return name.substring(0, 1).toUpperCase() + name.substring(1);
@@ -56,13 +59,19 @@ public class Pokemon {
 		return height;
 	}
 
-	public ArrayList<PokemonType> getTypes() {
-		return types;
-	}
-
 	public ArrayList<PokemonStat> getStats() {
 		return stats;
 	}
+
+	public String getTypeOne() {
+		return typeOne;
+	}
+
+	public String getTypeTwo() {
+		return typeTwo;
+	}
+
+
 
 	public String getSpriteFilename() { return dexNum + ".png"; }
 
