@@ -1,7 +1,6 @@
 package com.example.darwin.pokebase;
 
 import android.content.Context;
-import android.content.res.AssetManager;
 import android.graphics.drawable.Drawable;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,8 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 
 /**
@@ -51,16 +48,9 @@ public class PokemonAdapter extends ArrayAdapter<Pokemon> {
 
 		viewHolder.tvId.setText(pokemon.getDexNum());
 		viewHolder.tvName.setText(pokemon.getName());
-		AssetManager assetManager = getContext().getAssets();
-		try {
-			InputStream img = assetManager.open("sprites/" + pokemon.getDexNum() + ".png" );
-			Drawable d = Drawable.createFromStream(img, null);
-			viewHolder.ivSprite.setImageDrawable(d);
-		} catch (IOException ex) {
-			ex.printStackTrace();
-			return null;
-		}
 
+		Drawable d = FileManager.openDrawable(pokemon.getDexNum(), getContext());
+		viewHolder.ivSprite.setImageDrawable(d);
 		return convertView;
 	}
 }

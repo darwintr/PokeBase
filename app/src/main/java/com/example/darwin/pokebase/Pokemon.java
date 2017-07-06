@@ -1,16 +1,17 @@
 package com.example.darwin.pokebase;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
  * Created by Darwin on 6/24/2017.
  */
 
-public class Pokemon {
+public class Pokemon implements Serializable{
 	private String name;
 	private String dexNum;
-	private float weight;
-	private float height;
+	private double weight;
+	private double height;
 	private String typeOne;
 	private String typeTwo;
 	private ArrayList<PokemonStat> stats;
@@ -23,11 +24,11 @@ public class Pokemon {
 		this.dexNum = dexNum;
 	}
 
-	public void setWeight(float weight) {
+	public void setWeight(double weight) {
 		this.weight = weight;
 	}
 
-	public void setHeight(float height) {
+	public void setHeight(double height) {
 		this.height = height;
 	}
 
@@ -51,12 +52,12 @@ public class Pokemon {
 		return dexNum;
 	}
 
-	public float getWeight() {
-		return weight;
+	public double getWeight() {
+		return weight/10;
 	}
 
-	public float getHeight() {
-		return height;
+	public double getHeight() {
+		return height/10;
 	}
 
 	public ArrayList<PokemonStat> getStats() {
@@ -71,9 +72,6 @@ public class Pokemon {
 		return typeTwo;
 	}
 
-
-
-	public String getSpriteFilename() { return dexNum + ".png"; }
 
 	public static String getFormattedStat(String stat) {
 		// by default return stat name with first character capitalized.

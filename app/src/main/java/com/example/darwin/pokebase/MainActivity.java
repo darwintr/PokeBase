@@ -1,21 +1,23 @@
 package com.example.darwin.pokebase;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
+	public static final String POKEMON_DETAIL_KEY = "pokemon";
 	private ArrayList<Pokemon> pokemonList;
 	private HashMap<String, String> idToPokemon;
 	private PokemonAdapter pokemonAdapter;
@@ -26,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		String json = loadJSON("dexnumbers.json");
-		JSONArray jarr = getJSONArray(json, "dexnumbers");
+		String json = FileManager.loadJSON("dexnumbers.json", this);
+		JSONArray jarr = FileManager.getJSONArray(json, "dexnumbers");
 
 		try {
 			idToPokemon = new HashMap<String, String>();
@@ -57,32 +59,19 @@ public class MainActivity extends AppCompatActivity {
 		lvPokemon = (ListView) findViewById(R.id.lvPokemon);
 		pokemonAdapter = new PokemonAdapter(this, pokemonList);
 		lvPokemon.setAdapter(pokemonAdapter);
+
+		setupPokemonSelectedListener();
 	}
 
-	public String loadJSON(String file) {
-		String json = null;
-		try {
-			InputStream is = MainActivity.this.getAssets().open("data/" + file);
-			int size = is.available();
-			byte[] buff = new byte[size];
-			is.read(buff);
-			is.close();
-			json = new String(buff, "UTF-8");
-		} catch (IOException ex) {
-			ex.printStackTrace();
-			return null;
-		}
-		return json;
+	public void setupPokemonSelectedListener() {
+		lvPokemon.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+			@Override
+			public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+				Intent intent = new Intent(MainActivity.this, PokemonDetailActivity.class);
+				intent.putExtra(POKEMON_DETAIL_KEY, pokemonAdapter.getItem(position));
+				startActivity(intent);
+			}
+		});
 	}
 
-	public JSONArray getJSONArray(String json, String key) {
-		JSONArray jarr = null;
-		try {
-			JSONObject obj = new JSONObject(json);
-			jarr = obj.getJSONArray(key);
-		} catch (JSONException e) {
-			e.printStackTrace();
-		}
-		return jarr;
-	}
 }
