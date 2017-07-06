@@ -22,8 +22,8 @@
             android:layout_alignTop="@+id/pokemonSpriteDetail"
             android:layout_toEndOf="@+id/pokemonSpriteDetail"
             android:layout_toRightOf="@+id/pokemonSpriteDetail"
-            android:text="TextView"
-            android:textSize="18sp"/>
+            android:textSize="18sp"
+            android:text="TextView"/>
 
         <TextView
             android:id="@+id/pokemonNameDetail"
@@ -32,6 +32,7 @@
             android:layout_centerVertical="true"
             android:layout_toEndOf="@+id/pokemonSpriteDetail"
             android:layout_toRightOf="@+id/pokemonSpriteDetail"
+            android:fontFamily="sans-serif"
             android:text="TextView"
             android:textSize="30sp"/>
 
@@ -47,9 +48,35 @@
             android:id="@+id/pokemonTypeTwo"
             android:layout_width="60dp"
             android:layout_height="20dp"
-            android:layout_toRightOf="@+id/pokedexNumberDetail"
-            android:layout_toEndOf="@+id/pokedexNumberDetail"
+            android:layout_toRightOf="@+id/pokemonTypeOne"
+            android:layout_toEndOf="@+id/pokemonTypeOne"
             android:layout_alignTop="@+id/pokemonTypeOne"/>
+
+        <TextView
+            android:id="@+id/pokemonWeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pokemonHeight"
+            android:layout_alignBottom="@+id/pokemonHeight"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="TextView"/>
+
+        <TextView
+            android:id="@+id/pokemonHeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/pokemonTypeTwo"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/pokemonTypeTwo"
+            android:layout_toRightOf="@+id/pokemonTypeTwo"
+            android:fontFamily="sans-serif-condensed"
+            android:text="TextView"
+            android:visibility="visible"/>
 
     </RelativeLayout>
 
