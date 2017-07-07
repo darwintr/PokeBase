@@ -73,15 +73,5 @@ public class Pokemon implements Serializable{
 	}
 
 
-	public static String getFormattedStat(String stat) {
-		// by default return stat name with first character capitalized.
-		switch (stat) {
-			case "hp": return "HP";
-			case "special-attack": return "Sp.Atk";
-			case "special-defense": return "Sp.Def";
-			default: return stat.substring(0, 1).toUpperCase() + stat.substring(1);
-		}
-
-	}
 }
 
